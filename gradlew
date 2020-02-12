@@ -6,7 +6,7 @@
 ##
 ##############################################################################
 #testetst
-# Attempt to set APP_HOME hey
+# Attempt to set APP_HOME hey1
 # Resolve links: $0 may be a link
 PRG="$0"
 # Need this for relative symlinks.
